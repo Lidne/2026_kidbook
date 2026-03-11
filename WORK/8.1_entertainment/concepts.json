@@ -22,7 +22,7 @@
         "гейминг"
       ],
       "name": "computer_game",
-      "file": "8.1_entertainment/computer_game.md",
+      "file": "8.1_entertainment/articles/computer_game.md",
       "wikidata_id": "Q7889",
       "author": "Хереш Артемий",
       "article_llm": "GigaChat"
@@ -38,7 +38,7 @@
         "кубик"
       ],
       "name": "board_game",
-      "file": "8.1_entertainment/board_game.md",
+      "file": "8.1_entertainment/articles/board_game.md",
       "wikidata_id": "Q131436",
       "author": "Хереш Артемий",
       "article_llm": "GigaChat"
@@ -54,7 +54,7 @@
         "edutainment"
       ],
       "name": "educational_game",
-      "file": "8.1_entertainment/educational_game.md",
+      "file": "8.1_entertainment/articles/educational_game.md",
       "wikidata_id": "Q1141778",
       "author": "Хереш Артемий",
       "article_llm": "GigaChat"
@@ -70,7 +70,7 @@
         "соревнование"
       ],
       "name": "esports",
-      "file": "8.1_entertainment/esports.md",
+      "file": "8.1_entertainment/articles/esports.md",
       "wikidata_id": "Q300920",
       "author": "Фролов Матвей",
       "article_llm": "GigaChat"
@@ -86,7 +86,7 @@
         "мотивация"
       ],
       "name": "gamification",
-      "file": "8.1_entertainment/gamification.md",
+      "file": "8.1_entertainment/articles/gamification.md",
       "wikidata_id": "Q1145661",
       "author": "Фролов Матвей",
       "article_llm": "GigaChat"
@@ -102,7 +102,7 @@
         "рисованный фильм"
       ],
       "name": "animation",
-      "file": "8.1_entertainment/animation.md",
+      "file": "8.1_entertainment/articles/animation.md",
       "wikidata_id": "Q202866",
       "author": "Глушко Игорь",
       "article_llm": "GigaChat"
@@ -118,7 +118,7 @@
         "нон-фикшн"
       ],
       "name": "documentary",
-      "file": "8.1_entertainment/documentary.md",
+      "file": "8.1_entertainment/articles/documentary.md",
       "wikidata_id": "Q93204",
       "author": "Глушко Игорь",
       "article_llm": "GigaChat"
@@ -134,7 +134,7 @@
         "киноплёнка"
       ],
       "name": "cinema",
-      "file": "8.1_entertainment/cinema.md",
+      "file": "8.1_entertainment/articles/cinema.md",
       "wikidata_id": "Q5398426",
       "author": "Хабирова Амина",
       "article_llm": "GigaChat"
@@ -150,7 +150,7 @@
         "нота"
       ],
       "name": "music",
-      "file": "8.1_entertainment/music.md",
+      "file": "8.1_entertainment/articles/music.md",
       "wikidata_id": "Q638",
       "author": "Долбус Дмитрий",
       "article_llm": "GigaChat"
@@ -166,7 +166,7 @@
         "оркестр"
       ],
       "name": "musical_instrument",
-      "file": "8.1_entertainment/musical_instrument.md",
+      "file": "8.1_entertainment/articles/musical_instrument.md",
       "wikidata_id": "Q34379",
       "author": "Долбус Дмитрий",
       "article_llm": "GigaChat"
@@ -182,7 +182,7 @@
         "стиль музыки"
       ],
       "name": "musical_genre",
-      "file": "8.1_entertainment/musical_genre.md",
+      "file": "8.1_entertainment/articles/musical_genre.md",
       "wikidata_id": "Q188451",
       "author": "Долбус Дмитрий",
       "article_llm": "GigaChat"
@@ -198,7 +198,7 @@
         "Моцарт"
       ],
       "name": "classical_music",
-      "file": "8.1_entertainment/classical_music.md",
+      "file": "8.1_entertainment/articles/classical_music.md",
       "wikidata_id": "Q9730",
       "author": "Долбус Дмитрий",
       "article_llm": "GigaChat"
@@ -214,7 +214,7 @@
         "хит"
       ],
       "name": "song",
-      "file": "8.1_entertainment/song.md",
+      "file": "8.1_entertainment/articles/song.md",
       "wikidata_id": "Q7366",
       "author": "Долбус Дмитрий",
       "article_llm": "GigaChat"
@@ -230,7 +230,7 @@
         "свободное время"
       ],
       "name": "entertainment",
-      "file": "8.1_entertainment/entertainment.md",
+      "file": "8.1_entertainment/articles/entertainment.md",
       "wikidata_id": "Q173799",
       "author": "Фролов Матвей",
       "article_llm": "GigaChat"
@@ -246,7 +246,7 @@
         "интернет"
       ],
       "name": "media_literacy",
-      "file": "8.1_entertainment/media_literacy.md",
+      "file": "8.1_entertainment/articles/media_literacy.md",
       "wikidata_id": "Q1004817",
       "author": "Хабирова Амина",
       "article_llm": "GigaChat"
@@ -262,7 +262,7 @@
         "сеанс"
       ],
       "name": "movie_theater",
-      "file": "8.1_entertainment/movie_theater.md",
+      "file": "8.1_entertainment/articles/movie_theater.md",
       "wikidata_id": "Q41253",
       "author": "Канева Юлия",
       "article_llm": "GigaChat"
@@ -278,7 +278,7 @@
         "сочинитель"
       ],
       "name": "composer",
-      "file": "8.1_entertainment/composer.md",
+      "file": "8.1_entertainment/articles/composer.md",
       "wikidata_id": "Q36834",
       "author": "Канева Юлия",
       "article_llm": "GigaChat"
@@ -298,7 +298,7 @@
         "триллер"
       ],
       "name": "Фильм",
-      "file": "8.1_entertainment/movie.md",
+      "file": "8.1_entertainment/articles/movie.md",
       "wikidata_id": "Q11424",
       "author": "Ecodrin",
       "article_llm": "GigaChat"
@@ -312,7 +312,7 @@
         "кадр"
       ],
       "name": "Монтаж в кино",
-      "file": "8.1_entertainment/montage.md",
+      "file": "8.1_entertainment/articles/montage.md",
       "wikidata_id": "Q237893",
       "author": "Ecodrin",
       "article_llm": "GigaChat"
@@ -328,7 +328,7 @@
         "декорации"
       ],
       "name": "Спецэффекты в кино",
-      "file": "8.1_entertainment/special_effects.md",
+      "file": "8.1_entertainment/articles/special_effects.md",
       "wikidata_id": "Q8317",
       "author": "Ecodrin",
       "article_llm": "GigaChat"
@@ -343,7 +343,7 @@
         "раскадровка"
       ],
       "name": "Сценарий",
-      "file": "8.1_entertainment/script.md",
+      "file": "8.1_entertainment/articles/script.md",
       "wikidata_id": "Q103076",
       "author": "anxiousss",
       "article_llm": "GigaChat"
@@ -356,7 +356,7 @@
         "постановка"
       ],
       "name": "Режиссёр",
-      "file": "8.1_entertainment/director.md",
+      "file": "8.1_entertainment/articles/director.md",
       "wikidata_id": "P57",
       "author": "anxiousss",
       "article_llm": "GigaChat"
@@ -368,10 +368,12 @@
         "саундтрек"
       ],
       "name": "Саундтрек",
-      "file": "8.1_entertainment/soundtrack.md",
+      "file": "8.1_entertainment/articles/soundtrack.md",
       "wikidata_id": "Q217199",
       "author": "anxiousss",
       "article_llm": "GigaChat"
     }
   ]
 }
+
+

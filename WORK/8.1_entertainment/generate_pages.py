@@ -33,7 +33,9 @@ load_dotenv(os.path.join(os.path.dirname(os.path.abspath(__file__)), ".env"))
 SCRIPT_DIR = os.path.dirname(os.path.abspath(__file__))
 CONCEPTS_PATH = os.path.join(SCRIPT_DIR, "concepts.json")
 CONTEXTS_PATH = os.path.join(SCRIPT_DIR, "wikidata", "_contexts.json")
-OUTPUT_DIR = os.path.join(SCRIPT_DIR, "..", "..", "WEB", "8.1_entertainment")
+OUTPUT_DIR = os.path.join(
+    SCRIPT_DIR, "..", "..", "WEB", "8.1_entertainment", "articles"
+)
 
 # Параметры генерации
 TEMPERATURE = 0.7

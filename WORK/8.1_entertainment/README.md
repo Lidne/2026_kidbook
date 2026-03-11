@@ -88,29 +88,29 @@ graph TD
 
 | # | Понятие | WikiData | Категория | Файл |
 |---|---------|----------|-----------|------|
-| 1 | Компьютерная игра | [Q7889](https://www.wikidata.org/wiki/Q7889) | Игры | `computer_game.md` |
-| 2 | Настольная игра | [Q131436](https://www.wikidata.org/wiki/Q131436) | Игры | `board_game.md` |
-| 3 | Образовательная игра | [Q1141778](https://www.wikidata.org/wiki/Q1141778) | Игры | `educational_game.md` |
-| 4 | Киберспорт | [Q300920](https://www.wikidata.org/wiki/Q300920) | Игры | `esports.md` |
-| 5 | Геймификация | [Q1145661](https://www.wikidata.org/wiki/Q1145661) | Игры | `gamification.md` |
-| 6 | Фильм | [Q11424](https://www.wikidata.org/wiki/Q11424) | Фильмы | `movie.md` |
-| 7 | Мультфильм | [Q202866](https://www.wikidata.org/wiki/Q202866) | Фильмы | `animation.md` |
-| 8 | Документальный фильм | [Q93204](https://www.wikidata.org/wiki/Q93204) | Фильмы | `documentary.md` |
-| 9 | Кинематограф | [Q5398426](https://www.wikidata.org/wiki/Q5398426) | Фильмы | `cinema.md` |
-| 10 | Музыка | [Q638](https://www.wikidata.org/wiki/Q638) | Музыка | `music.md` |
-| 11 | Музыкальный инструмент | [Q34379](https://www.wikidata.org/wiki/Q34379) | Музыка | `musical_instrument.md` |
-| 12 | Музыкальный жанр | [Q188451](https://www.wikidata.org/wiki/Q188451) | Музыка | `musical_genre.md` |
-| 13 | Классическая музыка | [Q9730](https://www.wikidata.org/wiki/Q9730) | Музыка | `classical_music.md` |
-| 14 | Песня | [Q7366](https://www.wikidata.org/wiki/Q7366) | Музыка | `song.md` |
-| 15 | Развлечение | [Q173799](https://www.wikidata.org/wiki/Q173799) | Общее | `entertainment.md` |
-| 16 | Медиаграмотность | [Q1004817](https://www.wikidata.org/wiki/Q1004817) | Общее | `media_literacy.md` |
-| 17 | Кинотеатр | [Q41253](https://www.wikidata.org/wiki/Q41253) | Фильмы | `movie_theater.md` |
-| 18 | Композитор | [Q36834](https://www.wikidata.org/wiki/Q36834) | Музыка | `composer.md` |
-| 19 | Саундтрек | [Q217199](https://www.wikidata.org/wiki/Q217199) | Музыка | `soundtrack.md` |
-| 20 | Монтаж в кино | [Q237893](https://www.wikidata.org/wiki/Q237893) | Фильмы | `montage.md` |
-| 21 | Спецэффекты в кино | [Q8317](https://www.wikidata.org/wiki/Q8317) | Фильмы | `special_effects.md` |
-| 22 | Сценарий | [Q103076](https://www.wikidata.org/wiki/Q103076) | Фильмы | `script.md` |
-| 23 | Режиссёр | [P57](https://www.wikidata.org/wiki/Property:P57) | Фильмы | `director.md` |
+| 1 | Компьютерная игра | [Q7889](https://www.wikidata.org/wiki/Q7889) | Игры | `articles/computer_game.md` |
+| 2 | Настольная игра | [Q131436](https://www.wikidata.org/wiki/Q131436) | Игры | `articles/board_game.md` |
+| 3 | Образовательная игра | [Q1141778](https://www.wikidata.org/wiki/Q1141778) | Игры | `articles/educational_game.md` |
+| 4 | Киберспорт | [Q300920](https://www.wikidata.org/wiki/Q300920) | Игры | `articles/esports.md` |
+| 5 | Геймификация | [Q1145661](https://www.wikidata.org/wiki/Q1145661) | Игры | `articles/gamification.md` |
+| 6 | Фильм | [Q11424](https://www.wikidata.org/wiki/Q11424) | Фильмы | `articles/movie.md` |
+| 7 | Мультфильм | [Q202866](https://www.wikidata.org/wiki/Q202866) | Фильмы | `articles/animation.md` |
+| 8 | Документальный фильм | [Q93204](https://www.wikidata.org/wiki/Q93204) | Фильмы | `articles/documentary.md` |
+| 9 | Кинематограф | [Q5398426](https://www.wikidata.org/wiki/Q5398426) | Фильмы | `articles/cinema.md` |
+| 10 | Музыка | [Q638](https://www.wikidata.org/wiki/Q638) | Музыка | `articles/music.md` |
+| 11 | Музыкальный инструмент | [Q34379](https://www.wikidata.org/wiki/Q34379) | Музыка | `articles/musical_instrument.md` |
+| 12 | Музыкальный жанр | [Q188451](https://www.wikidata.org/wiki/Q188451) | Музыка | `articles/musical_genre.md` |
+| 13 | Классическая музыка | [Q9730](https://www.wikidata.org/wiki/Q9730) | Музыка | `articles/classical_music.md` |
+| 14 | Песня | [Q7366](https://www.wikidata.org/wiki/Q7366) | Музыка | `articles/song.md` |
+| 15 | Развлечение | [Q173799](https://www.wikidata.org/wiki/Q173799) | Общее | `articles/entertainment.md` |
+| 16 | Медиаграмотность | [Q1004817](https://www.wikidata.org/wiki/Q1004817) | Общее | `articles/media_literacy.md` |
+| 17 | Кинотеатр | [Q41253](https://www.wikidata.org/wiki/Q41253) | Фильмы | `articles/movie_theater.md` |
+| 18 | Композитор | [Q36834](https://www.wikidata.org/wiki/Q36834) | Музыка | `articles/composer.md` |
+| 19 | Саундтрек | [Q217199](https://www.wikidata.org/wiki/Q217199) | Музыка | `articles/soundtrack.md` |
+| 20 | Монтаж в кино | [Q237893](https://www.wikidata.org/wiki/Q237893) | Фильмы | `articles/montage.md` |
+| 21 | Спецэффекты в кино | [Q8317](https://www.wikidata.org/wiki/Q8317) | Фильмы | `articles/special_effects.md` |
+| 22 | Сценарий | [Q103076](https://www.wikidata.org/wiki/Q103076) | Фильмы | `articles/script.md` |
+| 23 | Режиссёр | [P57](https://www.wikidata.org/wiki/Property:P57) | Фильмы | `articles/director.md` |
 
 ## Источники знаний
 
