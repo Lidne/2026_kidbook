@@ -1,7 +1,7 @@
 """
 Скрипт для расстановки перекрёстных ссылок между статьями энциклопедии.
 
-Для каждого markdown-файла в WEB/8.1_ entertainment/:
+Для каждого markdown-файла в WEB/8.1_entertainment/:
 1. Генерирует все падежные формы из ключевых слов (lemmas) через pymorphy3
 2. Ищет вхождения этих форм в текстах других статей
 3. Заменяет первое вхождение каждого понятия на markdown-ссылку
@@ -22,7 +22,7 @@ import pymorphy3
 
 SCRIPT_DIR = os.path.dirname(os.path.abspath(__file__))
 CONCEPTS_PATH = os.path.join(SCRIPT_DIR, "concepts.json")
-PAGES_DIR = os.path.join(SCRIPT_DIR, "..", "..", "WEB", "8.1_ entertainment")
+PAGES_DIR = os.path.join(SCRIPT_DIR, "..", "..", "WEB", "8.1_entertainment")
 
 morph = pymorphy3.MorphAnalyzer()
 

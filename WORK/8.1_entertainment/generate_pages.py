@@ -33,7 +33,7 @@ load_dotenv(os.path.join(os.path.dirname(os.path.abspath(__file__)), ".env"))
 SCRIPT_DIR = os.path.dirname(os.path.abspath(__file__))
 CONCEPTS_PATH = os.path.join(SCRIPT_DIR, "concepts.json")
 CONTEXTS_PATH = os.path.join(SCRIPT_DIR, "wikidata", "_contexts.json")
-OUTPUT_DIR = os.path.join(SCRIPT_DIR, "..", "..", "WEB", "8.1_ entertainment")
+OUTPUT_DIR = os.path.join(SCRIPT_DIR, "..", "..", "WEB", "8.1_entertainment")
 
 # Параметры генерации
 TEMPERATURE = 0.7
@@ -62,6 +62,10 @@ TITLE_MAP = {
     "movie_theater": "Кинотеатр",
     "composer": "Композитор",
     "soundtrack": "Саундтрек",
+    "montage": "Монтаж в кино",
+    "special_effects": "Спецэффекты в кино",
+    "script": "Сценарий",
+    "director": "Режиссёр",
 }
 
 
